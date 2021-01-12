@@ -10,15 +10,15 @@ export default new Vuex.Store({
     cards: [
       {
         id: 1,
-        title: "Some cafsdfsdfsdfsdrd1",
+        title: "Some No one rejects, dislikes, or avoids pleasure itself",
         description:
-          "Description somedasdasdasdasomedasdasdasdasfdsfsdfsdfsdfsfsfsdfsdasadad2sfdsfsdfsdfsdfsfsfsdfsdasadad2",
+          "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo",
       },
       {
         id: 2,
-        title: "Some card2",
+        title: "Some card 2",
         description:
-          "Description somedasdasdasdsomedasdasdasdasfdsfsdfsdfsdfsfsfsdfsdasadad2somedasdasdasdasfdsfsdfsdfsdfsfsfsdfsdasadad2asfdsfsdfsdfsdfsfsfsdfsdasadad2",
+          "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
       },
     ],
   },
